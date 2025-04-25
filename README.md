@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm s1nnzz from England<br><br><br>- ⚡ In my free time I love learning about programming and IT. 🇷🇴🇭🇺.</p>
+<p align="left">I'm s1nnzz from England<br><br><br>- ⚡ In my free time I love learning about programming and IT.</p>
 
 ###
 
