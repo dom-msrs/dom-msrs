@@ -4,12 +4,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm s1nnzz from England<br><br><br>- ⚡ In my free time I love learning about programming and IT.</p>
-
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/rvZ4N1GMOCoAAAAC/lebron-james-le-shades.gif"  />
