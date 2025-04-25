@@ -1,5 +1,3 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=d-msrs.dom-msrs&left_color=darkslategrey&right_color=rebeccapurple"  />
-
 ###
 
 <h1 align="left">hey i'm dom-msrs 👋</h1>
