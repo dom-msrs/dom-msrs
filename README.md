@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">hey i'm dom-msrs 👋</h1>
+<h1 align="left">hey i'm s1nnzz👋</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm d-msrs from England<br><br>- 🔭 I’m working as a Digital Trainee at RBC<br>- 📚 I'm currently studying at Reading College (first-year)<br>- ⚡ In my free time I love learning about programming and IT. Other than that, my hobbies are gaming and martial arts.</p>
+<p align="left">I'm s1nnzz from England<br><br><br>- ⚡ In my free time I love learning about programming and IT. 🇷🇴🇭🇺.</p>
 
 ###
 
