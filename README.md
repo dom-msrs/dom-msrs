@@ -52,10 +52,6 @@
 
 ###
 
-<div align="right">
-  <a href="https://soundcloud.com/s1nn40__" style="margin-top:-1000px;">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=s1nnsomniac" alt="Spotify recently played"  />
-  </a>
-</div>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=s1nnsomniac)
 
 ###
