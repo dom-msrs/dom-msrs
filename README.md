@@ -1,13 +1,8 @@
-
-<p align="center">
-  <img src="https://github.com/s1nnzz/s1nnzz/blob/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage.png" width="355" height="262" alt="Top image">
-</p>
-
 <p align="center">
   <picture>
     <!-- Light mode -->
     <source
-      srcset="https://github.com/s1nnzz/s1nnzz/raw/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage-light.png"
+      srcset="https://github.com/s1nnzz/s1nnzz/blob/fd2ece9bd8bbc4aa50e649eb579aabcff0967802/top-BLACK.png"
       media="(prefers-color-scheme: light)"
     >
     <!-- Dark mode -->
