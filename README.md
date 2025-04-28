@@ -12,7 +12,7 @@
     >
     <!-- Dark mode -->
     <source
-      srcset="https://github.com/s1nnzz/s1nnzz/raw/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage-dark.png"
+      srcset="https://github.com/s1nnzz/s1nnzz/blob/ad789ae338ad01bbf32cdce10d2c0753a85899c6/top-WHITE.png"
       media="(prefers-color-scheme: dark)"
     >
     <!-- Fallback + sizing -->
