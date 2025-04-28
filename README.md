@@ -1,57 +1,34 @@
-###
 
-<h1 align="left">hey i'm s1nnzz👋</h1>
+# s1nnzz
 
-###
+Hey there! I'm **s1nnzz**, a passionate developer constantly exploring new technologies and sharpening my skills.
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/rvZ4N1GMOCoAAAAC/lebron-james-le-shades.gif"  />
+## 🛠️ Skills
 
-###
+### ✅ Proficient
 
-<h3 align="left">🛠 Languages and Libaries/Frameworks (Proficient)</h3>
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python  
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) Lua  
 
-###
+### ⚙️ Semi-Proficient
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-</div>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) TypeScript  
 
-###
+### 📚 Learning
 
-<h3 align="left">🛠 Languages and Libaries/Frameworks (Learning)</h3>
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) Vue.js  
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Django  
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) Rust  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
-
-###
+## 🎧 My Recent Tracks
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=s1nnsomniac)
 
-###
+---
