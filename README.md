@@ -3,6 +3,27 @@
   <img src="https://github.com/s1nnzz/s1nnzz/blob/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage.png" width="355" height="262" alt="Top image">
 </p>
 
+<p align="center">
+  <picture>
+    <!-- Light mode -->
+    <source
+      srcset="https://github.com/s1nnzz/s1nnzz/raw/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage-light.png"
+      media="(prefers-color-scheme: light)"
+    >
+    <!-- Dark mode -->
+    <source
+      srcset="https://github.com/s1nnzz/s1nnzz/raw/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage-dark.png"
+      media="(prefers-color-scheme: dark)"
+    >
+    <!-- Fallback + sizing -->
+    <img
+      src="https://github.com/s1nnzz/s1nnzz/raw/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage-light.png"
+      width="355" height="262"
+      alt="Top image"
+    >
+  </picture>
+</p>
+
 ## 🛠️ Skills
 
 ### ✅ Proficient
