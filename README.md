@@ -1,9 +1,7 @@
 
-# s1nnzz
-
-Hey there! I'm **s1nnzz**, a passionate developer constantly exploring new technologies and sharpening my skills.
-
----
+<p align="center">
+  <img src="https://github.com/s1nnzz/s1nnzz/blob/956fefeefbc817535b40308a1554dae5b3ae9bbe/topimage.png" width="355" height="262" alt="Top image">
+</p>
 
 ## 🛠️ Skills
 
